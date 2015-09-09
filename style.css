@@ -1,0 +1,23 @@
+body {
+       	background-image: url(http://phandroid.s3.amazonaws.com/wp-content/uploads/2015/03/wood-wallpaper-3.jpg);
+       	 margin: 5%;
+       	 padding: 5%;
+       	 	outline: double;
+       	outline-color: black;
+       	display: block;
+       	 color: black;
+       }
+       p{
+       	color: white; font-size: 25px; font-family:"Lowvetica"; 
+       
+
+       }
+       #myid{
+       	color: black;
+               font-family:"lowvetica";
+               font-weight: height: 150px;
+               width: 700px;
+       }
+       .media {
+       	color: blue; 
+       }
